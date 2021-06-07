@@ -1,3 +1,3 @@
 # TestNet
-Test your internet speed\n
+Test your internet speed
 pip install speedtest-cli
