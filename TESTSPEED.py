@@ -4,8 +4,6 @@ TestNet app by Hamed Masoudi
 
 """
 from tkinter import *
-import webbrowser
-import tkinter.messagebox
 import speedtest
 print("The TestNet is measuring your speed\nPlease wait...")
 s=speedtest.Speedtest()
